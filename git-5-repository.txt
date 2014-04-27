@@ -1,0 +1,4 @@
+1、启动Git：https://help.github.com/articles/set-up-git
+2、创建一个新版本: https://help.github.com/articles/create-a-repo
+3、克隆一个现有版本: https://help.github.com/articles/fork-a-repo
+4、如何删除一个已有版本库，可参考https://help.github.com/articles/deleting-a-repository
